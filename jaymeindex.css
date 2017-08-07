@@ -1,0 +1,88 @@
+body {
+   font-family: 'Pacifico', cursive;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 25px;
+   background-color: #9ACD32;
+}
+
+.leftimage {
+  float: left;
+  width:410px;
+  height:540px;
+}
+
+.title {
+  text-align: center;
+  background-color: #cd3299;
+}
+
+.subtitle {
+  text-align: center;
+}
+
+.bio {
+  background-color: #cd4c32;
+  font-size: 20px;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-weight: bolder;
+}
+
+.me {
+  font-family: 'Indie Flower', cursive;
+  color: #CC0000;
+}
+
+.bandtitle {
+  font-family: 'Indie Flower', cursive;
+  color: #CC0000;
+  text-align: center;
+  font-size: 40px;
+}
+
+.bandbio {
+  text-align: center;
+}
+
+.bandinfo {
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Indie Flower', cursive;
+  color: #CC0000;
+}
+
+.fragilerockimg {
+  width: 528px;
+  heighth: 404px;
+}
+
+.musictitle {
+  background-color: #32cd97;
+  text-align: center;
+  font-size: 40px;
+}
+
+.marcbio {
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+  border: 12px solid #32cd97;
+  background-color: #cd3299;
+}
+
+.marctitle {
+  text-align:center;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 30px;
+  color: #CC0000;
+}
+
+.rightimage {
+  float:right;
+  width:410px;
+  height:540px;
+}
+
+.byetitle{
+  text-align: center;
+  background-color: #cd4c32;
+}
